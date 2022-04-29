@@ -1,4 +1,0 @@
-a.log
-logs/*
-!logs/rishi.log
-target/*

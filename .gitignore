@@ -1,0 +1,5 @@
+a.log
+!logs/rishi.log
+logs/*
+target/*
+#.gitignore
